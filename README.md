@@ -8,3 +8,7 @@ A new app that makes your life easy!
 
 # How to change the code
 The code is currently not changeable
+
+# A big thank you at:
+@PrathameshDhande22 for the weather app
+@tuomaskivioja for the video downloader idea
