@@ -1,4 +1,4 @@
-# MultiToolV1.0
+# MultiTool
 A new app that makes your life easy!
 
 # How to use it
