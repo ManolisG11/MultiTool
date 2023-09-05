@@ -8,6 +8,7 @@ class Main:
         self.root = root
         self.root.title("Games")
         self.root.geometry("600x300")
+        root.iconbitmap("icon.ico")
 
         self.online_label = tk.Label(self.root, text="Games", justify="center", fg="blue", font=("Arial", 24))
         self.online_label.place(x=230, y=40)

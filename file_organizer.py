@@ -6,6 +6,7 @@ root=tkinter.Tk()
 
 root.title("File Organizer")
 root.geometry("600x300")
+root.iconbitmap("icon.ico")
 
 startLabel =tkinter.Label(root,text="Enter Path: ")
 startEntry=tkinter.Entry(root)
