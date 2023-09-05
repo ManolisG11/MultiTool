@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&width=435&lines=MultiTool)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=72&pause=1000&width=435&lines=MultiTool)](https://git.io/typing-svg)
 
 <h1 align="center" id="title">MultiTool</h1>
 
