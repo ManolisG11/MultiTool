@@ -1,6 +1,6 @@
 <h1 align="center" id="title">MultiTool</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=72&pause=1000&width=435&lines=MultiTool)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&width=435&lines=MultiTool)](https://git.io/typing-svg)
 
 <p align="center"><img src="https://socialify.git.ci/ManolisG11/MultiTool/image?description=1&amp;font=Source%20Code%20Pro&amp;logo=https%3A%2F%2Fi.ibb.co%2F7yQSRzT%2Fmulti-tool-256.png&amp;name=1&amp;owner=1&amp;pattern=Plus&amp;theme=Dark" alt="project-image"></p>
 
