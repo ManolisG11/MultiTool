@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&width=435&lines=MultiTool)](https://git.io/typing-svg)
 # MultiToolV1.0
 A new app that makes your life easy!
 
