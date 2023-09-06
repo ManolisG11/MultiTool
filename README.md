@@ -49,9 +49,6 @@ Here're some of the project's best features:
 <p>4. In the Windows Security Window click "More Info" and then "Run anyway"</p>
 
 <p>5. You are ready to go!</p>
-
-<h2>🍰 Contribution Guidelines:</h2>
-
   
   
 <h2>💻 Built with</h2>
