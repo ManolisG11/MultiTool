@@ -24,8 +24,6 @@
 
 <img src="https://i.ibb.co/qysY77y/Screenshot-4.png" alt="project-screenshot" >
 
-#
-  
   
 <h2>🧐 Features</h2>
 
